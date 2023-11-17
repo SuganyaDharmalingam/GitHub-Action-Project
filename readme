@@ -1,0 +1,4 @@
+A python program adition.py is executed through GitHub runners with "ubuntu-latest" and then it is edited to "self-hosted" and tried to perform the same actions through AWS EC2.
+
+EC2 instance is connected through CLI and then GitHub self-hosted runners are installed, from there GitHub Actions is tested for self-hosted runners as well.
+
